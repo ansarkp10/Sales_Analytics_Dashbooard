@@ -1,64 +1,68 @@
-📊 Sales Performance Dashboard – Power BI
+# 📊 Sales Performance Dashboard | Power BI
 
-An interactive Power BI dashboard designed to analyze Sales, Revenue, Profit, Customers, Products, and Regional Performance using dynamic visualizations and KPI tracking.
+An interactive and visually appealing **Power BI Dashboard** built to analyze business performance across **Sales, Revenue, Profit, Customers, Products, and Sales Channels**.
 
-🚀 Project Overview
+---
 
-This dashboard provides a complete business performance overview with:
+## 🚀 Project Overview
 
-💰 Total Revenue Analysis
-📦 Product Performance Tracking
-👥 Customer Insights
-🌍 Revenue by City (Map Visualization)
-📈 Channel-wise Sales Comparison
-📅 Dynamic Date Filtering
-📊 Interactive Charts & KPIs
-🛠 Tools & Technologies Used
-Power BI Desktop
-Power Query
-DAX
-Data Modeling
-Interactive Visualizations
-📌 Dashboard Features
-KPI Cards
-Total Revenue
-Total Quantity Sold
-Total Profit
-Visualizations
-Pie Chart for Top Customers
-Map Visualization for Revenue by City
-Stacked Bar Chart for Channel-wise Revenue
-Product Revenue Comparison
-Slicers for:
-Products
-Channels
-Customers
-Date Range
-🎨 Theme
+This dashboard helps businesses monitor key performance indicators (KPIs) and gain actionable insights through interactive visualizations and dynamic filtering.
 
-Custom light-green professional business theme with interactive visuals and clean layout design.
+The report includes:
 
-📷 Dashboard Preview
+- Revenue & Profit Tracking
+- Customer Analysis
+- Product Performance
+- Channel-wise Revenue Comparison
+- Geographic Revenue Insights
+- Interactive Slicers & Filters
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d9d9ebf-d435-4f51-b146-58df0c6303c8" />
+---
 
+# 📷 Dashboard Preview
 
-📂 Files Included
-.pbix Power BI Dashboard File
-Dataset files
-Custom Theme JSON (if used)
-📈 Insights Generated
-Wholesale channel generated the highest revenue
-Product 7 and Product 1 were top-performing products
-Revenue concentration observed in North America & Australia
-Top customers contributed significant percentage of total revenue
-🔥 Skills Demonstrated
-Data Cleaning
-Data Visualization
-Dashboard Design
-Business Intelligence
-KPI Reporting
-Analytical Thinking
-👨‍💻 Author
+![Dashboard Preview](dashboard_preview.png)
 
-AK
+---
+
+## 📌 Key Features
+
+### ✅ KPI Metrics
+- Total Revenue
+- Total Quantity Sold
+- Total Profit
+
+### 📊 Interactive Visualizations
+- Pie Chart – Top Customers
+- Map Visualization – Revenue by City
+- Stacked Bar Chart – Revenue by Channel & Year
+- Product Revenue Analysis
+- Dynamic Date Range Filtering
+
+### 🎛 Interactive Filters
+- Products
+- Channels
+- Customers
+- Date Period
+
+---
+
+## 🛠 Tools & Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | KPI Calculations |
+| Data Modeling | Relationship Management |
+
+---
+
+## 📈 Business Insights
+
+- Wholesale channel generated the highest revenue
+- Product 7 and Product 1 performed best
+- Revenue was highly concentrated in North America & Australia
+- Top customers contributed a major share of total sales
+
+---

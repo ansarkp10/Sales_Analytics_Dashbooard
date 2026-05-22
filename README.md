@@ -21,7 +21,8 @@ The report includes:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c5a3c99-b924-4021-857e-b519ee58758f" />
+
 
 ---
 
@@ -64,5 +65,3 @@ The report includes:
 - Product 7 and Product 1 performed best
 - Revenue was highly concentrated in North America & Australia
 - Top customers contributed a major share of total sales
-
----
